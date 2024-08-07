@@ -1,0 +1,9 @@
+question,optionA,optionB,optionC,optionD,optionE,correct
+What is the purpose of the header tag in HTML?,To define the main content of a webpage,To create a section at the top of a webpage usually containing headings or navigation,To add a footer at the bottom of a webpage,To define a section of a webpage for multimedia,To be sigma skibiti ohio,B
+Which HTML tag is used to create the footer of a webpage?,<footer>,<header>,<nav>,<section>,<h1>,A
+What is the correct HTML tag for defining a section of a webpage that groups related content?,<div>,<section>,<article>,<header>,<a>,B
+What HTML tag is used to embed an image in a webpage?,<img>,<picture>,<video>,<audio>,<p>,A
+Which attribute is required for the img tag to specify the image source?,src,href,alt,Ohio,width,A
+How can you add a video to a webpage using HTML?,<video>,<embed>,<media>,<video src>,<tiktok>,A
+Which attribute in the video tag specifies the controls for playing the video?,controls,src,autoplay,loop,src,A
+Fill in the blanks to embed a video video src="video.mp4" _______ /video ,controls,width,poster,autoplay,skibiti,A
